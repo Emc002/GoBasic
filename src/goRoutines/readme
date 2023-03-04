@@ -1,0 +1,10 @@
+GOROUTINES
+create effiecient and highly concurrent application.
+
+AGENDA
+1. Creating goroutines
+2. Synchronization
+  - WaitGroups
+  - Mutexes
+3. Parallesim
+4. Best Practices
